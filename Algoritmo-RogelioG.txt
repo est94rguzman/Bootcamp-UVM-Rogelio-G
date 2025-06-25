@@ -1,0 +1,11 @@
+Ejercicio Practico Modulo 5 - Rogelio Guzman / Bootcamp Desarrollo WEB - UVM
+
+	Algoritmo NumerosPares1a100
+		Definir i Como Entero
+		
+		Para i <- 1 Hasta 100 Con Paso 1
+			Si i MOD 2 = 0 Entonces
+				Escribir i
+			FinSi
+		FinPara
+FinAlgoritmo
